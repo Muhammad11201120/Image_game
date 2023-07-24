@@ -1,0 +1,11 @@
+D:\Programing\c#\winForms\ImageGame\image_game\bin\Debug\image_game.exe.config
+D:\Programing\c#\winForms\ImageGame\image_game\bin\Debug\image_game.exe
+D:\Programing\c#\winForms\ImageGame\image_game\bin\Debug\image_game.pdb
+D:\Programing\c#\winForms\ImageGame\image_game\obj\Debug\image_game.csproj.AssemblyReference.cache
+D:\Programing\c#\winForms\ImageGame\image_game\obj\Debug\image_game.csproj.SuggestedBindingRedirects.cache
+D:\Programing\c#\winForms\ImageGame\image_game\obj\Debug\image_game.Form1.resources
+D:\Programing\c#\winForms\ImageGame\image_game\obj\Debug\image_game.Properties.Resources.resources
+D:\Programing\c#\winForms\ImageGame\image_game\obj\Debug\image_game.csproj.GenerateResource.cache
+D:\Programing\c#\winForms\ImageGame\image_game\obj\Debug\image_game.csproj.CoreCompileInputs.cache
+D:\Programing\c#\winForms\ImageGame\image_game\obj\Debug\image_game.exe
+D:\Programing\c#\winForms\ImageGame\image_game\obj\Debug\image_game.pdb
